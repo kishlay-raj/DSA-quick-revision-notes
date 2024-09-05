@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md.md"
+                "file": "readme.md"
               }
             }
           }
@@ -222,7 +222,7 @@
   "active": "d4ece875a7317a41",
   "lastOpenFiles": [
     "LeetCode revision summary.md",
-    "readme.md.md",
+    "readme.md",
     "Support/DSA concepts to remember.md",
     "Support/To learn and remember.md",
     "Support",
