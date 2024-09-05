@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd184aac5572a580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adsd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode revision summary.md",
+                "file": "adsd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode revision summary.md",
+                "file": "adsd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode revision summary.md"
+                "file": "adsd.md"
               }
             }
           }
@@ -195,10 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08f9f39c1c4a335f",
+  "active": "bd184aac5572a580",
   "lastOpenFiles": [
-    "DSA concepts to remember.md",
+    "Pasted image 20240905065714.png",
     "LeetCode revision summary.md",
+    "adsd.md",
+    "DSA concepts to remember.md",
     "To learn and remember.md",
     "Pasted image 20240707223443.png",
     "LeetCode revision summary images/Pasted image 20240707223443.png",
